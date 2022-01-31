@@ -1,0 +1,9 @@
+create a function called isIsogram that takes one argument, 
+a word to test if its an isogram. 
+This function should return a boolean indicating whether it is an isogram(true) or not (false).
+
+Example: 
+isIsogram("Dermatoglyphics")
+
+Expected result:
+true
