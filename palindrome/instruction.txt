@@ -1,0 +1,10 @@
+Definition: Palindrome is a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or nurses run.
+
+Problem:
+Given a string, return true if the string is a palindrome or false if it is not. Do include spaces and punctuation in determining if the string is a palindrome.
+
+--Example:
+palindrome("abba") === true
+palindrome("level") === true
+palindrome("easy") === false
+palindrome("code") === false
